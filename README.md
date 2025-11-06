@@ -64,7 +64,7 @@ optional arguments:
   --similitary_contour_with_circle SIMILITARY_CONTOUR_WITH_CIRCLE
                         Similarly to a circle
 ```
-### 5. Result
+### 5. Result 
 ![](images/demo.gif)
 ### 6. Disadvantages
 - Static image processing, this means parameters must be updated for each video with different lighting conditions
